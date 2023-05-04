@@ -140,7 +140,7 @@ public class Main extends SimpleApplication
         final Main app = new Main();
         app.showSettings = false;
         final AppSettings settings = new AppSettings(true);
-        settings.setTitle("My BlockOut Demo 15/07/2020");
+        settings.setTitle("Voxel Game Demo");
         settings.put("Width", width);
         settings.put("Height", height);
         settings.setVSync(true);
