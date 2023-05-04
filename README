@@ -1,0 +1,6 @@
+This is a basic demo of a Voxel builder and PBR materials, you may need to use the JME editor to work with the code.
+w, a, s, d, to move.
+q, z, upDown.
+right click add.
+left click remove.
+d debug.
