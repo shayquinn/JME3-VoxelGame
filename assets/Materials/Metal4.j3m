@@ -1,0 +1,16 @@
+
+Material Sphere : Common/MatDefs/Light/PBRLighting.j3md {
+     MaterialParameters {
+        
+        MetallicRoughnessMap : "Materials/AmbientOcclusionMap.png"
+        NormalMap : "Materials/NormalMap.png"
+        EmissiveMap : "Materials/SpecularMap.png"
+        LightMap: "Materials/AmbientOcclusionMap.png"
+        LightMapAsAOMap: true;
+        EmissiveIntensity : 2.0
+     
+        BaseColorMap : "Materials/BaseColorMap4.png"
+     }
+    AdditionalRenderState {
+    }
+}
